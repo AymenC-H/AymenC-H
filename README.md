@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aymen
+- 👀 I’m interested in Python Development
+- 🌱 I’m currently learning PyQt6 Lib
+- 💞️ I’m looking to collaborate on some Web and game dev
+- 📫 How to reach me: email:"aymenchoura2004g1@gmail.com"
